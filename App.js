@@ -83,3 +83,6 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   }
 })
+
+// Sample comment.
+// Hello World
